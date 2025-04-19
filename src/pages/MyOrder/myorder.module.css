@@ -1,0 +1,12 @@
+.order{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.tableHeader{
+    background-color: aqua;
+}
+.tableBody{
+    background-color: rgb(246, 255, 127);
+}
