@@ -4,7 +4,7 @@ Busy Buy is an e-commerce web application built with React. It allows users to s
  # Features
 User authentication (Sign Up, Sign In, Logout).
 
-Product browsing and filtering.
+Product browsing and filtering by differnt types.
 
 Shopping cart functionality.
 
@@ -34,6 +34,7 @@ Navigate to the project directory:
 
 Install dependencies:
 npm install
+install Create React App
 Set up Firebase:
 Create a Firebase project and set up Firestore.
 Obtain Firebase configuration credentials.
